@@ -1,4 +1,4 @@
-# equity-research
+# multi-asset-research
 
 A project aimed at supporting portfolio contruction by conducting mulit-asset research.
 
